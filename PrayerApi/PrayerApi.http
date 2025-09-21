@@ -1,0 +1,6 @@
+@PrayerApi_HostAddress = http://localhost:5134
+
+GET {{PrayerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
